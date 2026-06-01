@@ -7,7 +7,7 @@
         88,
         120
     ],
-    "python.languageServer": "Pylance",
+    "python.languageServer": "None",
     "yaml.schemaStore.enable": true,
     "[python]": {
         "editor.formatOnSave": true,

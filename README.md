@@ -22,6 +22,7 @@ This folder contains the source for dupeGuru. Its documentation is in `help`, bu
 * help: Help document, written for Sphinx.
 * locale: .po files for localization.
 * hscommon: A collection of helpers used across HS applications.
+* MyDup: A small standalone sample app (see [MyDup/README.md](MyDup/README.md)) that scans folders, saves scan sessions as JSON, and compares same-size files across selected scans. Uses `os.scandir` like `core/directories.py` and **tkinter** (no extra pip packages).
 
 ## How to build dupeGuru from source
 
